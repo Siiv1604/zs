@@ -1,0 +1,36 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://0.0.0.0:3333/libs/
+Subject: Directory listing for /libs/
+Date: Sun, 4 Aug 2024 11:18:55 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--58zaJ5SgYFNNLDbAeeTrPutsyzxKBlRsyeK5MF8JFq----"
+
+
+------MultipartBoundary--58zaJ5SgYFNNLDbAeeTrPutsyzxKBlRsyeK5MF8JFq----
+Content-Type: text/html
+Content-ID: <frame-C0EA96C106D5B129343B74A5B2034892@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://0.0.0.0:3333/libs/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Directory listing for /libs/</title>
+</head>
+<body>
+<h1>Directory listing for /libs/</h1>
+<hr>
+<ul>
+<li><a href="http://0.0.0.0:3333/libs/dagger-2.37.jar">dagger-2.37.jar</a></li>
+<li><a href="http://0.0.0.0:3333/libs/download_dependencies.sh">download_dependencies.sh</a></li>
+<li><a href="http://0.0.0.0:3333/libs/hilt-core-2.37.jar">hilt-core-2.37.jar</a></li>
+<li><a href="http://0.0.0.0:3333/libs/kotlinx-coroutines-android-1.5.1.jar">kotlinx-coroutines-android-1.5.1.jar</a></li>
+<li><a href="http://0.0.0.0:3333/libs/kotlinx-coroutines-core-1.5.1.jar">kotlinx-coroutines-core-1.5.1.jar</a></li>
+<li><a href="http://0.0.0.0:3333/libs/libs/">libs/</a></li>
+</ul>
+<hr>
+
+
+</body></html>
+------MultipartBoundary--58zaJ5SgYFNNLDbAeeTrPutsyzxKBlRsyeK5MF8JFq------

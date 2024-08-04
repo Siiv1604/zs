@@ -1,0 +1,35 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://0.0.0.0:3333/unknown/
+Subject: Directory listing for /unknown/
+Date: Sun, 4 Aug 2024 11:19:29 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--UFtQZPGspFvqaM0YuDeLHZ1UrIpOH55uvUbCukZZHx----"
+
+
+------MultipartBoundary--UFtQZPGspFvqaM0YuDeLHZ1UrIpOH55uvUbCukZZHx----
+Content-Type: text/html
+Content-ID: <frame-9DE23917677EA6A4D16B18E06C4045C2@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://0.0.0.0:3333/unknown/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Directory listing for /unknown/</title>
+</head>
+<body>
+<h1>Directory listing for /unknown/</h1>
+<hr>
+<ul>
+<li><a href="http://0.0.0.0:3333/unknown/DebugProbesKt.bin">DebugProbesKt.bin</a></li>
+<li><a href="http://0.0.0.0:3333/unknown/icepick/">icepick/</a></li>
+<li><a href="http://0.0.0.0:3333/unknown/kotlin-tooling-metadata.json">kotlin-tooling-metadata.json</a></li>
+<li><a href="http://0.0.0.0:3333/unknown/okhttp3/">okhttp3/</a></li>
+<li><a href="http://0.0.0.0:3333/unknown/org/">org/</a></li>
+</ul>
+<hr>
+
+
+</body></html>
+------MultipartBoundary--UFtQZPGspFvqaM0YuDeLHZ1UrIpOH55uvUbCukZZHx------

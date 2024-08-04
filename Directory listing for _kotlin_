@@ -1,0 +1,37 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://0.0.0.0:3333/kotlin/
+Subject: Directory listing for /kotlin/
+Date: Sun, 4 Aug 2024 11:18:44 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--RoEAn5fjUS7VcrsyZGJXTXKiOnpAv6AOYk1NHIGGus----"
+
+
+------MultipartBoundary--RoEAn5fjUS7VcrsyZGJXTXKiOnpAv6AOYk1NHIGGus----
+Content-Type: text/html
+Content-ID: <frame-6D482ABAECC7723650B50714EDCF3DE9@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://0.0.0.0:3333/kotlin/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Directory listing for /kotlin/</title>
+</head>
+<body>
+<h1>Directory listing for /kotlin/</h1>
+<hr>
+<ul>
+<li><a href="http://0.0.0.0:3333/kotlin/annotation/">annotation/</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/collections/">collections/</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/coroutines/">coroutines/</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/internal/">internal/</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/kotlin.kotlin_builtins">kotlin.kotlin_builtins</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/ranges/">ranges/</a></li>
+<li><a href="http://0.0.0.0:3333/kotlin/reflect/">reflect/</a></li>
+</ul>
+<hr>
+
+
+</body></html>
+------MultipartBoundary--RoEAn5fjUS7VcrsyZGJXTXKiOnpAv6AOYk1NHIGGus------

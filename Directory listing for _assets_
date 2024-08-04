@@ -1,0 +1,36 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://0.0.0.0:3333/assets/
+Subject: Directory listing for /assets/
+Date: Sun, 4 Aug 2024 11:18:38 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sBvRXlRurdng9rAa9ys45hItV2U4QDDoPqPI8ES8Ku----"
+
+
+------MultipartBoundary--sBvRXlRurdng9rAa9ys45hItV2U4QDDoPqPI8ES8Ku----
+Content-Type: text/html
+Content-ID: <frame-8DF84DCEF5001AEF2F658CE671568BA5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://0.0.0.0:3333/assets/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Directory listing for /assets/</title>
+</head>
+<body>
+<h1>Directory listing for /assets/</h1>
+<hr>
+<ul>
+<li><a href="http://0.0.0.0:3333/assets/apache2.html">apache2.html</a></li>
+<li><a href="http://0.0.0.0:3333/assets/dexopt/">dexopt/</a></li>
+<li><a href="http://0.0.0.0:3333/assets/epl1.html">epl1.html</a></li>
+<li><a href="http://0.0.0.0:3333/assets/gpl_3.html">gpl_3.html</a></li>
+<li><a href="http://0.0.0.0:3333/assets/mit.html">mit.html</a></li>
+<li><a href="http://0.0.0.0:3333/assets/mpl2.html">mpl2.html</a></li>
+</ul>
+<hr>
+
+
+</body></html>
+------MultipartBoundary--sBvRXlRurdng9rAa9ys45hItV2U4QDDoPqPI8ES8Ku------
