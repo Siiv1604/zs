@@ -1,0 +1,41 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://0.0.0.0:5555/Siiv/
+Subject: Directory listing for /Siiv/
+Date: Mon, 5 Aug 2024 02:29:50 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--pXqjvpg8pvzuNzmy7eItTGz46pPXNiyJYIu7Rty63r----"
+
+
+------MultipartBoundary--pXqjvpg8pvzuNzmy7eItTGz46pPXNiyJYIu7Rty63r----
+Content-Type: text/html
+Content-ID: <frame-6DF69AD08C2E154E7ADF9EEE006A2FE5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://0.0.0.0:5555/Siiv/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Directory listing for /Siiv/</title>
+</head>
+<body>
+<h1>Directory listing for /Siiv/</h1>
+<hr>
+<ul>
+<li><a href="http://0.0.0.0:5555/Siiv/.git/">.git/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/assets/">assets/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/kotlin/">kotlin/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/libs/">libs/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/README.md">README.md</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/res/">res/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/smali/">smali/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/smali_classes2/">smali_classes2/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/smali_classes3/">smali_classes3/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/unknown/">unknown/</a></li>
+<li><a href="http://0.0.0.0:5555/Siiv/zs/">zs/</a></li>
+</ul>
+<hr>
+
+
+</body></html>
+------MultipartBoundary--pXqjvpg8pvzuNzmy7eItTGz46pPXNiyJYIu7Rty63r------
